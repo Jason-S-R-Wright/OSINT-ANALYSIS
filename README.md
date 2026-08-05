@@ -24,18 +24,14 @@ Key frameworks utilized throughout these case studies include:
 
 ## 📁 Portfolio Case Studies & Simulations
 
-### [Case Study 1: Project Gilded Quill (All-Source Geopolitical Synthesis)](./Gilded_Quill_Assessment.md)
-*   **Core Challenge:** Reconciling technical imagery, public intellectual property adjustments, and signals telemetry to evaluate a dual-use aerospace threat.
-*   **Key Skills:** Cross-discipline data fusion, evaluation of technical infrastructure manipulation, and mapping strategic regional adversaries.
-
-### [Case Study 2: Operation Phantom Node (Cyber Threat Intelligence & Counter-Intelligence)](./Operation_Phantom_Node.md)
-*   **Core Challenge:** Triangulating computer vision data-poisoning techniques with employee transit timelines to isolate an active insider threat under duress.
-*   **Key Skills:** Behavioral tracking, technical cyber vulnerability mitigation, and execution-by-proxy threat modeling.
-
-### [Case Study 3: Operation Broken Scepter (HUMINT Validation & Counter-Terrorism)](./Operation_Broken_Scepter.md)
-*   **Core Challenge:** Untangling direct conflicts between multiple human assets regarding a time-sensitive, high-consequence embassy threat timeline.
-*   **Key Skills:** Source credibility metrics, financial telemetry tracking, and non-traditional kinetic threat forecasting (UAS/Drone alternatives).
-
+*   [**Case Study 1: Project Gilded Quill (All-Source Geopolitical Synthesis)**](./Gilded_Quill_Assessment.md)
+*   [**Case Study 2: Operation Phantom Node (Cyber Threat Intelligence)**](./Operation_Phantom_Node.md)
+*   [**Case Study 3: Operation Broken Scepter (HUMINT & Counter-Terrorism)**](./Operation_Broken_Scepter.md)
+*   [**Case Study 4: Operation Crimson Tide (Maritime Proliferation)**](./Crimson_Tide_Assessment.md)
+*   [**Case Study 5: Operation Gorgon Shield (Hybrid Deception & Regional Isolation)**](./Gorgon_Shield_Assessment.md)
+*   [**Case Study 6: Operation Iron Canopy (Critical Infrastructure & Insider Threat)**](./Iron_Canopy_Assessment.md)
+*   
+##
 ---
 
 ## 📈 Professional Interests & Path Forward
