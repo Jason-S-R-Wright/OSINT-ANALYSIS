@@ -30,8 +30,8 @@ Key frameworks utilized throughout these case studies include:
 - [**Case Study 4: Operation Crimson Tide**](./Crimson_Tide_Assessment.md)
 - [**Case Study 5: Operation Gorgon Shield**](./Gorgon_Shield_Assessment.md)
 - [**Case Study 6: Operation Iron Canopy**](./Iron_Canopy_Assessment.md)
--   [**Case Study 7: Project COLDFEET (Polar Asset Extraction)**](./Project_Coldfeet_Assessment.md)
- 
+- [**Case Study 7: Project COLDFEET**](./Project_Coldfeet_Assessment.md)
+- [**Case Study 8: Operation Stellar Flare**](./Stellar_Flare_Assessment.md)
 
 
 ## 📈 Professional Interests & Path Forward
