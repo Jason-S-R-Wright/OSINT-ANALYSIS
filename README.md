@@ -24,14 +24,13 @@ Key frameworks utilized throughout these case studies include:
 
 ## 📁 Portfolio Case Studies & Simulations
 
-*   [**Case Study 1: Project Gilded Quill (All-- [**Case Study 1: Project Gilded Quill**](./Gilded_Quill_Assessment.md)
+- [**Case Study 1: Project Gilded Quill**](./Gilded_Quill_Assessment.md)
 - [**Case Study 2: Operation Phantom Node**](./Operation_Phantom_Node.md)
 - [**Case Study 3: Operation Broken Scepter**](./Operation_Broken_Scepter.md)
 - [**Case Study 4: Operation Crimson Tide**](./Crimson_Tide_Assessment.md)
 - [**Case Study 5: Operation Gorgon Shield**](./Gorgon_Shield_Assessment.md)
 - [**Case Study 6: Operation Iron Canopy**](./Iron_Canopy_Assessment.md)
 
----
 
 ## 📈 Professional Interests & Path Forward
 I am actively looking to apply my skills to the following domains across public sector agencies, private defense partners, and remote data engineering hubs:
